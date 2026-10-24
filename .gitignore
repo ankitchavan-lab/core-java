@@ -1,0 +1,17 @@
+# Java build output
+bin/
+out/
+target/
+*.class
+
+# IDE / editor metadata
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+.idea/
+.vscode/
+*.iml
+*.launch
+.project
+.classpath
+.settings/
